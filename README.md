@@ -15,3 +15,5 @@ how to upload a project file folder to git
 if in case there is error : fatal: remote origin already exists.
 refer to https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists .
 like in the case of this project i named remote html_css_bootstrap_project and moved on.
+
+i tried pushing directly into branches but was unable now I have spent over 5 hours trying to do so and wasted somewhere about tens of hours dues to them, i'll just keep on pushing into the master branch and use history of files as reference now.
