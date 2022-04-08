@@ -21,3 +21,6 @@ i tried pushing directly into branches but was unable now I have spent over 5 ho
 git log --oneline
 git checkout <000cfcf no. like this corresponding to commit> index.html //this thing reverts index.hmtl back to the no. version of commit
 git checkout --index.html // restores everything
+
+git clone <url of repo> //to clone online repo from git on a new foreign computer
+  
