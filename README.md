@@ -19,3 +19,5 @@ like in the case of this project i named remote html_css_bootstrap_project and m
 i tried pushing directly into branches but was unable now I have spent over 5 hours trying to do so and wasted somewhere about tens of hours dues to them, i'll just keep on pushing into the master branch and use history of files as reference now.
 
 git log --oneline
+git checkout <000cfcf no. like this corresponding to commit> index.html //this thing reverts index.hmtl back to the no. version of commit
+git checkout --index.html // restores everything
